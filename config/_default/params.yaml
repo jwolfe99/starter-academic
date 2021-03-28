@@ -49,7 +49,7 @@ contact_links:
 #    icon_pack: fab
 #    name: Chat on Keybase
 #    link: 'https://keybase.io/'
-  - icon: website
+  - icon: web
     icon_pack: fab
     name: Departmental website
     link: 'https://liberalarts.tulane.edu/departments/history/people/justin-wolfe'
