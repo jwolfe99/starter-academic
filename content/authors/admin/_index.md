@@ -1,7 +1,7 @@
 ---
 title: Justin Wolfe
 role: Associate Professor of History
-avatar_filename: justin-wolfe-pbc-5256-8x6-1-.jpg
+avatar_filename: avatar.jpg
 bio: My research focuses on popular politics and identity during the long
   nineteenth-century in Central Ameri
 interests:
