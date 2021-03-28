@@ -22,39 +22,41 @@ twitter: ''
 
 email: jwolfe@tulane.edu
 address:
-  company: 'Tulane University'
-  department: 'History Department'
-  street: '6823 St. Charles Avenue'
+  street: 'Tulane University, History Department, 6823 St. Charles Avenue'
   city: 'New Orleans'
   region: LA
   postcode: '70118'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '29.940348'
+  longitude: '-90.120728'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com/jwolfe-8/20min'
 contact_links:
-  - icon: twitter
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:echo123?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+  - icon: website
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Departmental website
+    link: 'https://liberalarts.tulane.edu/departments/history/people/justin-wolfe'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
