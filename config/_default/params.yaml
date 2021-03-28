@@ -20,13 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: jwolfe@tulane.edu
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  company: 'Tulane University'
+  department: 'History Department'
+  street: '6823 St. Charles Avenue'
+  city: 'New Orleans'
+  region: LA
+  postcode: '70118'
   country: United States
   country_code: US
 coordinates:
