@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: jwolfe@tulane.edu
-address: Tulane University
+address:
   street: '6823 St. Charles Avenue'
-  city: New Orleans
+  city: 'New Orleans'
   region: LA
   postcode: '70118'
   country: United States
