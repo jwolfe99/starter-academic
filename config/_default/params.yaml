@@ -22,7 +22,7 @@ twitter: ''
 
 email: jwolfe@tulane.edu
 address:
-  street: 'Tulane University, History Department, 6823 St. Charles Avenue'
+  street: 'Tulane University<br>History Department<br>6823 St. Charles Avenue<br>'
   city: 'New Orleans'
   region: LA
   postcode: '70118'
@@ -49,7 +49,7 @@ contact_links:
 #    icon_pack: fab
 #    name: Chat on Keybase
 #    link: 'https://keybase.io/'
-  - icon: web
+  - icon: chrome
     icon_pack: fab
     name: Departmental website
     link: 'https://liberalarts.tulane.edu/departments/history/people/justin-wolfe'
