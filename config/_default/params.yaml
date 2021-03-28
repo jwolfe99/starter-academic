@@ -23,9 +23,9 @@ twitter: ''
 email: jwolfe@tulane.edu
 address:
   street: 'Tulane University<br>History Department<br>6823 St. Charles Avenue<br>'
-  city: 'New Orleans'
-  region: LA
-  postcode: '70118'
+  #city: 'New Orleans'
+  #region: LA
+  postcode: 'New Orleans, LA 70118'
   country: United States
   country_code: US
 coordinates:
