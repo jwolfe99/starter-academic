@@ -1,6 +1,7 @@
 ---
 title: Justin Wolfe
-role: Professor of Artificial Intelligence
+role: Associate Professor of History
+avatar_filename: https://liberalarts.tulane.edu/sites/liberalarts.tulane.edu/files/Justin-Wolfe-pbc-5256-8x6.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
