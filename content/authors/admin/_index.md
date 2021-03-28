@@ -1,7 +1,7 @@
 ---
 title: Justin Wolfe
 role: Associate Professor of History
-avatar_filename: justin-wolfe-pbc-5256-8x6-1-.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
