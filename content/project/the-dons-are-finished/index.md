@@ -5,12 +5,13 @@ subtitle: Gender, Race, and Citizenship in Postcolonial Nicaragua through the
 date: 2021-03-30T13:55:26.447Z
 draft: false
 featured: false
-categories:
-  - Book
-external_link: ---
+tags:
+  - Books
+categories: []
+external_link: https://justinwolfe.netlify.app/project/the-dons-are-finished/
 links: []
 image:
-  filename: cathedral-of-leon.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
