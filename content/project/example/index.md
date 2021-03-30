@@ -5,7 +5,7 @@ title: On Equal Ground
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-03-29T23:49:04.443Z
-external_link: https://justinwolfe.netlify.app/project/onequalgrounds/
+external_link: ---
 url_slides: ""
 subtitle: Race and Empire in the Age of Manifest Destiny
 tags:
