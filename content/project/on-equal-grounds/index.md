@@ -10,7 +10,7 @@ external_link: https://justinwolfe.netlify.app/project/on-equal-grounds/
 url_slides: ""
 subtitle: Race and Empire in the Age of Manifest Destiny
 tags:
-  - Book
+  - Books
 links: []
 image:
   caption: ""
