@@ -7,7 +7,7 @@ draft: false
 featured: false
 categories:
   - Book
-external_link: /
+external_link: ---
 links: []
 image:
   filename: cathedral-of-leon.jpg
