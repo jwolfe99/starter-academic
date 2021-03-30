@@ -5,7 +5,9 @@ title: On Equal Ground
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-03-29T23:49:04.443Z
-external_link: ---
+categories:
+  - Books
+external_link: https://justinwolfe.netlify.app/project/on-equal-grounds/
 url_slides: ""
 subtitle: Race and Empire in the Age of Manifest Destiny
 tags:
@@ -14,7 +16,8 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: meyer-greytown-1852.jpeg
+  filename: featured.jpeg
+  preview_only: true
 url_code: ""
 ---
 My current project is a microhistory of the port of Greytown/San Juan del Norte—the eastern terminus of the Gold Rush-era transit route across Nicaragua. For centuries, explorers, politicians, scientists, and merchants dreamed of an interoceanic canal across Nicaragua. In 1848, this dream seemed on the verge of realization, when British forces claimed sovereignty over the port town of San Juan del Norte, Nicaragua, the transit route’s Atlantic starting point, rechristening it Greytown in honor of Jamaica’s then-governor.
