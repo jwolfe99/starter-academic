@@ -32,7 +32,7 @@ content:
   - name: Articles
     tag: Articles
   - name: Public Humanities
-	tag: Public_Humanities
+    tag: Public_Humanities
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
