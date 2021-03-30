@@ -8,6 +8,7 @@ featured: false
 categories:
   - Book
 external_link: /
+links: []
 image:
   filename: cathedral-of-leon.jpg
   focal_point: Smart
