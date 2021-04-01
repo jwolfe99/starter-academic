@@ -8,11 +8,24 @@ authors:
 publication: "Lincoln: University of Nebraska Press, 2007"
 abstract: ""
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.jpeg
-  focal_point: Smart
-  preview_only: false
-date: 2021-04-01T17:21:23.861Z
+  focal_point: Topright
+  preview_only: true
+summary: "After Nicaragua achieved independence from Spain in 1821, it suffered
+  a series of conflicts culminating in the two-year National War. When that war
+  ended in 1857, Nicaragua was in ruins. *The Everyday Nation-State* explores
+  what followed: the intersection of nation-state formation and everyday life in
+  nineteenth-century Nicaragua. Rather than focus on the “invented traditions”
+  of anthems, marches, and memorials that convey and reproduce an established
+  sense of national identity and belonging, this work analyzes how such feelings
+  emerged in the struggles of local communities over political authority,
+  identity, and legitimacy. Based on extensive research of court cases, land
+  registries, census materials, correspondence, government publications, and
+  newspapers, *The Everyday Nation-State* connects the local with the national,
+  prizing the narratives of commoners, while placing them in the larger regional
+  and historical context, and challenging the way we approach the study of the
+  nation-state."
+date: 2007-04-01T17:21:00.000Z
 ---
-After Nicaragua achieved independence from Spain in 1821, it suffered a series of conflicts culminating in the two-year National War. When that war ended in 1857, Nicaragua was in ruins. *The Everyday Nation-State* explores what followed: the intersection of nation-state formation and everyday life in nineteenth-century Nicaragua. Rather than focus on the “invented traditions” of anthems, marches, and memorials that convey and reproduce an established sense of national identity and belonging, this work analyzes how such feelings emerged in the struggles of local communities over political authority, identity, and legitimacy. Based on extensive research of court cases, land registries, census materials, correspondence, government publications, and newspapers, *The Everyday Nation-State* connects the local with the national, prizing the narratives of commoners, while placing them in the larger regional and historical context, and challenging the way we approach the study of the nation-state.
