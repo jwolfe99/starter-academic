@@ -6,10 +6,10 @@ date: 2021-04-01T14:46:52.878Z
 draft: false
 featured: false
 tags:
-  - Article
+  - Articles
 categories:
-  - Article
-external_link: ---
+  - Articles
+external_link: https://justinwolfe.netlify.app/project/legislating-the-public-sphere/
 image:
   filename: featured
   focal_point: Smart
