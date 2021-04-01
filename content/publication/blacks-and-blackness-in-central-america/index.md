@@ -12,7 +12,7 @@ publication: "Durham, N.C.: Duke University Press, 2010"
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 summary: Many of the earliest Africans to arrive in the Americas came to Central
