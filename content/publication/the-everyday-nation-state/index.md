@@ -12,7 +12,7 @@ featured: true
 image:
   filename: https://unebraskapress-us.imgix.net/covers/9780803228023.jpg?auto=format&w=200
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 summary: "After Nicaragua achieved independence from Spain in 1821, it suffered
   a series of conflicts culminating in the two-year National War. When that war
   ended in 1857, Nicaragua was in ruins. *The Everyday Nation-State* explores
