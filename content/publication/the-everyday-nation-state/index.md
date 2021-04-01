@@ -27,7 +27,7 @@ summary: "After Nicaragua achieved independence from Spain in 1821, it suffered
   prizing the narratives of commoners, while placing them in the larger regional
   and historical context, and challenging the way we approach the study of the
   nation-state."
-date: 2007-04-01T17:21:00.000Z
+date: 2007-04-01T06:00:00.000Z
 ---
 ![](featured.jpeg)
 
