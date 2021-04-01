@@ -31,7 +31,7 @@ abstract: Many of the earliest Africans to arrive in the Americas came to
   Americans not only gained the right to vote but repeatedly held high office,
   including the presidency, following independence from Spain in 1821.
 draft: false
-featured: false
+featured: true
 image:
   filename: https://www.dukeupress.edu/Assets/Books/978-0-8223-4803-0_pr.jpg
   focal_point: Smart
