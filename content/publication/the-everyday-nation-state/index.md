@@ -11,7 +11,7 @@ draft: false
 featured: true
 image:
   filename: featured.jpeg
-  focal_point: Smart
+  focal_point: Topright
   preview_only: true
 summary: "After Nicaragua achieved independence from Spain in 1821, it suffered
   a series of conflicts culminating in the two-year National War. When that war
@@ -27,5 +27,5 @@ summary: "After Nicaragua achieved independence from Spain in 1821, it suffered
   prizing the narratives of commoners, while placing them in the larger regional
   and historical context, and challenging the way we approach the study of the
   nation-state."
-date: 2021-04-01T17:21:23.861Z
+date: 2007-04-01T17:21:00.000Z
 ---
