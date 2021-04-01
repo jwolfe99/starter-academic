@@ -10,7 +10,7 @@ abstract: ""
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: https://unebraskapress-us.imgix.net/covers/9780803228023.jpg?auto=format&w=200
   focal_point: Smart
   preview_only: false
 summary: "After Nicaragua achieved independence from Spain in 1821, it suffered
