@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - Books
-categories: []
+categories: Books
 external_link: https://justinwolfe.netlify.app/project/the-dons-are-finished/
 links: []
 image:
