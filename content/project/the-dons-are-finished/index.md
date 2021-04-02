@@ -13,6 +13,6 @@ links: []
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 This project explores the life of an aristocratic family in Nicaragua as it sought to maintain its social and political position through the rocky period after Nicaragua's independence from Spain, and the ensuring decades of civil war and conflict. The sources for this project offer a rare glimpse into the life and perspective of elite women in the early nineteenth century Latin America as they struggled amidst the family's declining fortunes amidst rising social tensions.
