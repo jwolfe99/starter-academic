@@ -21,6 +21,18 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Books
+    tag: Books
+  - name: Articles
+    tag: Articles
+  - name: Public Humanities
+    tag: Public Humanities
+  - name: In Progress
+    tag: In Progress
+
   # Filter on criteria
   filters:
     tag: ''
