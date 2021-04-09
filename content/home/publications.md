@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Books
 subtitle: ''
 
 content:
@@ -21,23 +21,12 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Books
-    tag: Books
-  - name: Articles
-    tag: Articles
-  - name: Public Humanities
-    tag: Public Humanities
-  - name: In Progress
-    tag: In Progress
 
   # Filter on criteria
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '5'
     author: ''
     exclude_featured: false
 design:
