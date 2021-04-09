@@ -11,23 +11,20 @@ content:
   count: 5
   offset: 0
   order: desc
-  filter_button:
-    - name: All
-      tag: "*"
-    - name: Books
-      tag: Books
-    - name: Articles
-      tag: Articles
-    - name: Public Humanities
-      tag: Public Humanities
-    - name: In Progress
-      tag: In Progress
-  filters:
-    tag: ""
-    category: ""
-    publication_type: ""
-    author: ""
+
+
+# Filter on criteria
+filters:
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: false
 design:
-  view: 4
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view:  4
 ---
